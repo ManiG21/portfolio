@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import './Contact.css';
+import './About.css';
 import Gohan from './Gohan-ssj2.gif';
 import { useState } from 'react';
+import Home from './components/Home/Home';
+import About from './components/About/About';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -20,7 +24,15 @@ function App() {
   return (
     <div className="App">
 
-      <div className='Navbar'></div>
+      <div className='Navbar'>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="projects" element={<Projects/>} />
+        <Route path="about" element={<About/>} />
+        <Route path="contact" element={<Contact />} />
+      </Routes>
+      
+      </div>
       <h2>Welcome to my Portfolio</h2>
       <img src="/img/giphy.gif" alt='Spider-man'></img>
       <img src={Gohan} alt='Gohan'></img>
