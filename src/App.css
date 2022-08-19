@@ -1,9 +1,7 @@
 .app{
   text-align: center;
 }
-.click-container {
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  width: 900px;
+
+** {
+  background-color: aqua;
 }
