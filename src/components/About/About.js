@@ -1,16 +1,20 @@
 import './About.css';
 import {Link} from "react-router-dom"
-// import Me from './Me.png';
+import Me from './Me.png';
 
 
 function About() {
    return (
     <div className="about">
-         <Link to="/"> <button className="todo-button">Home</button></Link>
-         <Link to="/contact"> <button id='contact-button'>Contact</button></Link>
-         <Link to="/projects"> <button id='projects-button'>Projects</button></Link>
-         About Me 
-         {/* <img src={Me} alt='Me'></img> */}
+       
+        <header>About Me</header>  
+         <img id='Me' src={Me} alt='Me'></img>
+         <p> I am a avid learner. I am always looking for ways to improve to 
+            become the best I can be at my craft. Here are a few words I would use to describe myself. hardworking,
+             team player, detailed oriented and perfectionist.  I would use team player because I work well 
+             in groups. Here's a link to my resume
+         </p>
+         {/* <Link>Resume</Link> */}
     </div>
    ) 
     

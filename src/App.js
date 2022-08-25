@@ -1,4 +1,4 @@
-
+import Navbar from './components/Navbar/Navbar';
 import './App.css';
 // import Gohan from './Gohan-ssj2.gif';
 import { Routes, Route } from "react-router-dom";
@@ -24,19 +24,13 @@ function App() {
 
   return (
     <div className="App">
-
-      <div className='Navbar'>
-        
+      <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/projects" element={<Projects/>} />
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      <h2>Welcome to my Portfolio</h2>
-      
-      </div>
-      
       {/* <img src="/img/giphy.gif" alt='Spider-man'></img>
       <img src={Gohan} alt='Gohan'></img>
       <button onClick={searchClick}>Search</button>

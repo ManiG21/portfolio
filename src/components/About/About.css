@@ -1,0 +1,19 @@
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-style: oblique;
+}
+
+.about{
+    background-color: royalblue;
+}
+
+#Me {
+    
+}

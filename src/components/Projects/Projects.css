@@ -1,0 +1,67 @@
+/* .pro-buttons{
+  background-color: royalblue;
+} */
+  .project-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 50px;
+    color: rgb(0, 238, 255);
+    text-decoration: none;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid red;
+    cursor: pointer;
+    background-color: royalblue;
+  }
+
+  div {
+    background-color: lightblue;
+  }
+
+  .pro-buttons {
+    display: grid;
+    grid-template-columns: auto auto;
+    animation-timing-function: ease-in;
+    animation-delay: 2s;
+  }
+
+  #Game:hover  {
+background-image: url(./Game3-ss.png);
+/* opacity: .8; */
+background-position: left;
+background-size: cover;
+color: transparent;
+  }
+  #Calc:hover  {
+background-image: url(./Calc-ss.png);
+/* opacity: .8; */
+background-position: center;
+background-size: cover;
+color: transparent;
+  }
+  #Music:hover  {
+opacity: .8;
+background-position: center;
+background-size: cover;
+  }
+
+  #Music {
+    color: black;
+    transition: 2s blue;
+  }
+  #Calc {
+    color: rgb(8, 8, 8);
+  }
+  #Game {
+    color: black;
+  }
+
+  
+  #Pro {
+    color: black;
+  }
+
+  

@@ -1,4 +1,4 @@
-.buttons {
+.nav-button {
     display: flex;
     justify-content: center;
     margin: 0 auto;
@@ -7,14 +7,7 @@
 
 }
 
-button{
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    width: 500px;
-    background-color: aqua;
-    padding: 16px;
-    font-size: 30px;
-
+.Home {
+    background-color: royalblue;
 }
 
