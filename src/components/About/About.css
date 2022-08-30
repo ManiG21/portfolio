@@ -12,8 +12,11 @@ header {
 
 .about{
     background-color: royalblue;
+    
 }
 
 #Me {
-    
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }

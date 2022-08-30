@@ -2,3 +2,12 @@ div {
     background-color: lightblue;
   }
 
+  .logos {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: red;
+    color: blue;
+    font-size: 100px;
+    cursor: pointer;
+  }

@@ -13,7 +13,7 @@ function Project() {
            </video> */}
          
             <a className='project-button' id='Calc' href='https://manig21.github.io/Calculator-Project/' target='_blank' >Calculator</a>
-            <a className='project-button'  id='Game' href='https://www.google.com/' target='_blank' >Game Project</a>
+            <a className='project-button'  id='Game' href='https://manig21.github.io/Game-Project/Sonic/sonic.html' target='_blank' >Game Project</a>
             <a className='project-button'id='Music' href='https://www.google.com/' target='_blank' >Coming Soon</a>
             <a className='project-button' id='Pro' href='https://www.google.com/' target='_blank' >Coming Soon</a>
             {/* <a className='project-button' href=''> <div >Game Project</div></a>
