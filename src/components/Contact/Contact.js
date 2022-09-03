@@ -1,5 +1,4 @@
 import './Contact.css';
-import { Link } from "react-router-dom"
 import { GoMarkGithub } from "react-icons/go";
 import { AiFillLinkedin } from "react-icons/ai";
 
