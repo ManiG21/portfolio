@@ -5,7 +5,7 @@ import logo from './Logo.png';
 
 function Home() {
    return (
-    <div className='Home'>  
+    <div className='home container'>  
       <header>Welcome to my Portfolio</header>
     <img id='Me' src={logo}></img>
     </div>

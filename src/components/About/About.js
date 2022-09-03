@@ -5,7 +5,7 @@ import Me from './Me.png';
 
 function About() {
    return (
-    <div className="about">
+    <div className="about container">
        
         <header>About Me</header>  
          <img id='Me' src={Me} alt='Me'></img>

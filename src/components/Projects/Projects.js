@@ -5,7 +5,7 @@ import mult from './MultiVersus.mp4'
 
 function Project() {
    return (
-      <div className='pro-buttons-container'>
+      <div className='pro-buttons-container container'>
          <header>My Projects</header>
          <div className="pro-buttons">
            {/* <video src={mult}>
