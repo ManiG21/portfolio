@@ -1,13 +1,13 @@
 import './Projects.css';
-// import mult from './MultiVersus.mp4'
+import mult from './MultiVersus.mp4'
 
 function Project() {
    return (
       <div className='pro-buttons-container container'>
          <header>My Projects</header>
          <div className="pro-buttons">
-           {/* <video src={mult}>
-             
+         {/* <video  width="320" height="240" autoPlay muted>
+             <source src={mult} type='video/mp4'></source>
            </video> */}
          
             <a className='project-button' id='Calc' href='https://manig21.github.io/Calculator-Project/' target='_blank' rel='noreferrer' >Calculator</a>

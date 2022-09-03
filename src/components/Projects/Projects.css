@@ -44,6 +44,7 @@ background-size: cover;
 color: transparent;
   }
   #Music:hover  {
+    /* background-image: ; */
 opacity: .8;
 background-position: center;
 background-size: cover;
