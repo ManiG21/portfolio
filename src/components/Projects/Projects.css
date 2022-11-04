@@ -43,14 +43,15 @@ background-position: center;
 background-size: cover;
 color: transparent;
   }
-  #Music:hover  {
+  #Movies-More:hover  {
     /* background-image: ; */
 opacity: .8;
 background-position: center;
 background-size: cover;
   }
 
-  #Music {
+  #Movies-More {
+    font-size: 42px;
     color: black;
     transition: 2s blue;
   }
