@@ -6,6 +6,19 @@
     background-color: aqua;
     padding: 16px;
     font-size: 30px;
-    cursor: grab;
+    top:50%;
+    color: rgb(250, 8, 8);
+    border-collapse: separate;
+    border-radius:20px;
+    cursor: pointer;
+    box-shadow: 0px 7px 10px 1px rgba(0,0,0,0.75);
+
+
+}
+
+.buttonNav:hover {
+    background-color:#002ead;
+    transition: 0.7s;
+    box-shadow: 0px 5px 5px 5px rgba(248, 245, 245, 0.75);
 
 }
