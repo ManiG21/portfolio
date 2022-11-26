@@ -57,21 +57,48 @@ background-size: cover;
   }
   #Calc {
     color: rgb(8, 8, 8);
-  }
-  #Game {
-    color: black;
-  }
+      /* position: relative; 
+      animation: 3s slidein;
+    }
+    
+    @keyframes slidein {
+      0% {
+        left: -2000px;
+      }
+      100% {
+        left: 0;
+      }
+   */
+    
+    }
+  
 
   
   #Pro {
     color: black;
+    color: black;
+    position: relative; 
+    animation: 3s slidein;
+  }
+  
+  @keyframes slidein {
+    0% {
+      right:-2000px;
+    }
+    100% {
+      right: 0;
+    }
+
+  
   }
 
   .project-button {
     margin-bottom: 20px;
-    position: relative; 
-    animation: 3s slidein;
-  }
+    /* position: relative; 
+    animation: 3s slidein; */
+    box-shadow: 0px 7px 10px 4px rgba(245, 3, 3, 0.75);
+
+  /* }
   
   @keyframes slidein {
     0% {
@@ -79,7 +106,25 @@ background-size: cover;
     }
     100% {
       left: 0;
-    }
+    } */
 
   
   }
+
+  #Game {
+    color: black;
+      position: relative; 
+      animation: 3s slidein;
+    }
+    
+    @keyframes slidein {
+      0% {
+        right:-2000px;
+      }
+      100% {
+        right: 0;
+      }
+  
+    
+    }
+  
