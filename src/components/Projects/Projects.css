@@ -67,4 +67,19 @@ background-size: cover;
     color: black;
   }
 
+  .project-button {
+    margin-bottom: 20px;
+    position: relative; 
+    animation: 3s slidein;
+  }
   
+  @keyframes slidein {
+    0% {
+      left:-2000px;
+    }
+    100% {
+      left: 0;
+    }
+
+  
+  }

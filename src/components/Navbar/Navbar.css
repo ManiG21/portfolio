@@ -18,13 +18,13 @@
 }
 button.buttonNav {
     position: relative; 
-    animation: 1s slidein;
+    animation: 3s slidein;
   /*   background: blue;/ */
   }
   
   @keyframes slidein {
     0% {
-      left:-1700px;
+      left:-2000px;
     }
     100% {
       left: 0;
