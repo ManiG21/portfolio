@@ -10,7 +10,6 @@ function Contact() {
 
       
       <div className="contact container">
-{/* <FontAwesomeIcon className='Emojis' id='Excited' icon={faFaceSmileBeam}/> */}
 
          <header> My Contacts</header>
          <a href='https://github.com/ManiG21'> <GoMarkGithub className='logos' /></a>
