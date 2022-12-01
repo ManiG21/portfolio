@@ -7,7 +7,7 @@ function About() {
     <div className="about container">
        
         <header>About Me</header>  
-         <img id='Me' src={Me} alt='Me'></img>
+         <img className='logo'id='Me' src={Me} alt='Me'></img>
          <p> I am a avid learner. I am always looking for ways to improve to 
             become the best I can be at my craft. Here are a few words I would use to describe myself.The first
             being hardworking, I would use this term to describe myself because
