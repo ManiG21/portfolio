@@ -2,7 +2,6 @@ import Navbar from './components/Navbar/Navbar';
 import './App.css';
 // import Gohan from './Gohan-ssj2.gif';
 import { Routes, Route } from "react-router-dom";
-import { useState } from 'react';
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';

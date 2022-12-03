@@ -1,5 +1,4 @@
 import './Projects.css';
-import mult from './MultiVersus.mp4'
 
 function Project() {
    return (
