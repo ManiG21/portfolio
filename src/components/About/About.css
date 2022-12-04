@@ -6,17 +6,19 @@ p {
 
 }
 
-/* .para{
- animation: 3s slideout;
+.para{
+ animation: 3s slideup ease;
+ position: relative;
+ background-color: red;
 }
-    @keyframes slideout {
+    @keyframes slideup {
         0% {
-          left:-2000px;
+          bottom:-200px;
         }
         100% {
-          left: 0;
+          bottom: 0;
         }
-} */
+}
 
 header {
     font-size: 50px;
