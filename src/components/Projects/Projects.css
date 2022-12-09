@@ -12,14 +12,9 @@
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    border: 5px solid red;
+    border: 5px solid white;
     cursor: pointer;
-    background-color:royalblue;
-  }
-
-  div {
-    background-color: lightblue;
-    
+    /* background-color:royalblue; */
   }
 
   .pro-buttons {

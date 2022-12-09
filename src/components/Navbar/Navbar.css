@@ -3,7 +3,8 @@
     justify-content: center;
     margin: 0 auto;
     width: 500px;
-    background-color: aqua;
+    /* background-color: aqua; */
+    background-color: black;
     padding: 16px;
     font-size: 30px;
     color: rgb(250, 8, 8);
