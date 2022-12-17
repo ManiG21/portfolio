@@ -8,19 +8,7 @@ import Contact from './components/Contact/Contact';
 import Projects from './components/Projects/Projects';
 
 function App() {
-  // const [count, setCount] = useState(0);
-  // const [search, setSearch] = useState("");
-  // const incrementCount = () => setCount(count + 1);
-  // const decrementCount = () => setCount(count - 1);
-
-  // const updateSearch = e => {
-  //   setSearch(e.target.value)
-  // }
-  // const searchClick = () => {
-  //   window.open(`https://www.google.com/search?tbm=isch&q=${search}`);
-  //   setSearch("")
-  // }
-
+  
   return (
     <div className="App">
       <Navbar/>
