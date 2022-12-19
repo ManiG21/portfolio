@@ -22,13 +22,7 @@ function App() {
       <img src={Gohan} alt='Gohan'></img>
       <button onClick={searchClick}>Search</button>
       <input onInput={updateSearch} placeholder="image Search" value={search}/>
-      <label> Image Search</label>
-
-      <div className='click-container'>
-        <h3>Click Count {count}</h3>
-        <button onClick={incrementCount}>+</button>
-        <button onClick={decrementCount}>-</button>
-      </div> */}
+      <label> Image Search</label> */}
     </div>
   );
 }
