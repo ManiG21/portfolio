@@ -15,7 +15,6 @@ function Project() {
             <a className='project-button' id='Pro' href='https://www.google.com/' target='_blank' rel='noreferrer' >Coming Soon</a>
             {/* /* <a className='project-button' href=''> <div >Coming Soon</div></a> */}
                  {/* <FontAwesomeIcon className='Emojis Excited' icon={faFaceSmileBeam} />
-                <FontAwesomeIcon className='Emojis Sad' icon={faFaceSadCry} />
                 <FontAwesomeIcon className='Emojis Sad' icon={faAngleDoubleLeft} /> */}
             
          </div>
