@@ -12,22 +12,26 @@
     border-radius:20px;
     cursor: pointer;
     box-shadow: 0px 7px 10px 1px rgba(0,0,0,0.75);
+  font-family: fantasy;
     
 
 
 }
 button.buttonNav {
     position: relative; 
-    animation: 3s slidein;
+    animation: 3s slidedown;
   /*   background: blue;/ */
   }
   
-  @keyframes slidein {
+  @keyframes slidedown {
     0% {
-      left:-2000px;
+      top:-2000px;
+      right: -2000px;
     }
     100% {
-      left: 0;
+      top: 0;
+      right: 0px;
+
     }
   }
 .buttonNav:hover {

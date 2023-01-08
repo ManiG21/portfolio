@@ -9,7 +9,11 @@ p {
 .para{
  animation: 3s slideup ease;
  position: relative;
- background-color: red;
+ /* background-color: red; */
+ background-color:#027c1a;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
 }
     @keyframes slideup {
         0% {
