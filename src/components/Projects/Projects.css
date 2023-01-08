@@ -26,14 +26,18 @@
 
   #Game:hover  {
 background-image: url(./Game3-ss.png);
-/* opacity: .8; */
+-webkit-box-shadow: 2px -2px 5px 28px rgba(253, 250, 250, 0.75);
+-moz-box-shadow: 2px -2px 5px 28px rgba(246, 237, 237, 0.75);
+box-shadow: 2px -2px 5px 28px rgba(244, 238, 238, 0.75);
 background-position: left;
 background-size: cover;
 color: transparent;
   }
   #Calc:hover  {
 background-image: url(./Calc-ss.png);
-/* opacity: .8; */
+-webkit-box-shadow: 2px -2px 5px 28px rgba(253, 250, 250, 0.75);
+-moz-box-shadow: 2px -2px 5px 28px rgba(246, 237, 237, 0.75);
+box-shadow: 2px -2px 5px 28px rgba(244, 238, 238, 0.75);
 background-position: center;
 background-size: cover;
 color: transparent;
@@ -41,6 +45,9 @@ color: transparent;
   #Movies-More:hover  {
      background-image: url(./M-M.png);
 opacity: .8;
+-webkit-box-shadow: 2px -2px 5px 28px rgba(253, 250, 250, 0.75);
+-moz-box-shadow: 2px -2px 5px 28px rgba(246, 237, 237, 0.75);
+box-shadow: 2px -2px 5px 28px rgba(244, 238, 238, 0.75);
 background-position: center;
 background-size: cover;
 color: transparent;
@@ -98,7 +105,7 @@ color: transparent;
   }
 
   .project-button {
-    margin-bottom: 20px;
+    margin-bottom: 35px;
      position: relative; 
     animation: 3s slidein;
     box-shadow: 0px 7px 10px 4px rgba(245, 3, 3, 0.75);

@@ -47,6 +47,7 @@ header {
 } */
 
 #Me {
+  height: 500px;
     display: block;
     margin-top: 20px;
     margin-right: auto;
