@@ -6,6 +6,26 @@ body {
   background-color: #b70606;
 }
 
+
+
 header {
+  font-size: 70px;
+  text-align: center;
   font-family: fantasy;
+  text-decoration-line: underline ;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: relative; 
+  animation: 3s slideout;
+/*   background: blue;/ */
+}
+
+@keyframes slideout {
+  0% {
+    left:-2000px;
+  }
+  100% {
+    left: 0;
+  }
+
 }

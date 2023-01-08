@@ -24,26 +24,7 @@ p {
         }
 }
 
-header {
-    font-size: 50px;
-    text-align: center;
-    text-decoration-line: underline ;
-    font-style: oblique;
-    margin-top: 5px;
-    position: relative; 
-    animation: 3s slideout;
-  /*   background: blue;/ */
-  }
-  
-  @keyframes slideout {
-    0% {
-      left:-2000px;
-    }
-    100% {
-      left: 0;
-    }
- 
-}
+
 
 /* .about{
     background-color: royalblue;
@@ -57,11 +38,11 @@ header {
     margin-right: auto;
     margin-left: auto;
     box-shadow: 0px 10px 10px 10px rgba(7, 7, 7, 0.75);
-    animation: 3s slidein;
+    animation: 3s slidein ease;
 }
-@keyframes slidein {
+@keyframes slidein  {
     0% {
-      left:-2000px;
+      left:-2500px;
     }
     100% {
       left: 0;
