@@ -1,6 +1,6 @@
 import './About.css';
 import Me from './Me2.jpeg';
-import Resume from './Armani_Grant_Resume.docx'
+// import Resume from './Armani_Grant_Resume.docx'
 
 
 function About() {
