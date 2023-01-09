@@ -24,6 +24,7 @@
     grid-template-columns: auto auto;
     animation-timing-function: ease-in;
     animation-delay: 2s;
+    
   }
 
   #Game:hover  {
@@ -34,6 +35,17 @@ box-shadow: 2px -2px 5px 28px rgba(244, 238, 238, 0.75);
 background-position: left;
 background-size: cover;
 color: transparent;
+/* animation: 1s bounce;
+animation-iteration-count: 1;
+}
+
+@keyframes bounce {
+0% {
+  top:20px;
+}
+100% {
+  top: 0;
+} */
   }
   #Calc:hover  {
 background-image: url(./Calc-ss.png);
