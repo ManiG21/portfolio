@@ -1,8 +1,9 @@
 .buttonNav{
     display: flex;
     justify-content: center;
-    margin: 0 auto;
-    width: 500px;
+    margin: 20px;
+    /* width: 500px; */
+    width: 100%;
     /* background-color: aqua; */
     background-color: black;
     padding: 16px;
