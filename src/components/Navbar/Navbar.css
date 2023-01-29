@@ -20,7 +20,6 @@
 button.buttonNav {
     position: relative; 
     animation: 3s slidedown;
-  /*   background: blue;/ */
   }
   
   @keyframes slidedown {
@@ -35,7 +34,6 @@ button.buttonNav {
     }
   }
 .buttonNav:hover {
-    /* background-color:#002ead; */
     background-color:  #7d807e;
     transition: 0.7s;
     box-shadow: 0px 5px 5px 5px rgba(248, 245, 245, 0.75);
