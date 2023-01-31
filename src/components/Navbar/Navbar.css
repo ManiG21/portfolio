@@ -1,42 +1,74 @@
-.buttonNav{
-    display: flex;
-    justify-content: center;
-    margin: 20px;
-    width: 100px;
-    width: 100%;
-    background-color: black;
-    padding: 16px;
-    font-size: 35px;
-    color: rgb(250, 8, 8);
-    border-collapse: separate;
-    border-radius:20px;
-    cursor: pointer;
-    box-shadow: 0px 7px 10px 1px rgba(0,0,0,0.75);
+.buttonNav {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  width: 100px;
+  width: 100%;
+  background-color: black;
+  padding: 16px;
+  font-size: 35px;
+  color: rgb(250, 8, 8);
+  border-collapse: separate;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0px 7px 10px 1px rgba(0, 0, 0, 0.75);
   font-family: fantasy;
-    
-
-
 }
-button.buttonNav {
-    position: relative; 
-    animation: 3s slidedown;
-  }
-  
-  @keyframes slidedown {
-    0% {
-      top:-2000px;
-      right: -2000px;
-    }
-    100% {
-      top: 0;
-      right: 0px;
 
-    }
+.navLinkContainer {
+  display: flex;
+  transition: height 0.5s;
+  width: 100%;
+  overflow: hidden;
+  justify-content: center;
+}
+
+
+
+.nav-button {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  /* width: 900px; */
+}
+.hamburger-menu {
+  display: none;
+}
+@media all and (max-width: 800px) {
+  .navLinkContainer, .nav-button {
+    flex-direction: column;
+    align-items: center;
   }
+  .hamburger-menu {
+    display: block;
+  }
+  .navLinkContainer.closed {
+    height: 0;
+  }
+}
+
+button.buttonNav {
+  position: relative;
+  animation: 3s slidedown;
+}
+
+@keyframes slidedown {
+  0% {
+    top: -2000px;
+    right: -2000px;
+  }
+
+  100% {
+    top: 0;
+    right: 0px;
+
+  }
+}
+
 .buttonNav:hover {
-    background-color:  #7d807e;
-    transition: 0.7s;
-    box-shadow: 0px 5px 5px 5px rgba(248, 245, 245, 0.75);
-    color: white;
+  background-color: #7d807e;
+  transition: 0.7s;
+  box-shadow: 0px 5px 5px 5px rgba(248, 245, 245, 0.75);
+  color: white;
 
 }
