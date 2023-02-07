@@ -13,8 +13,8 @@ function About() {
             become the best I can be at my craft. I have a passion for front-end website development. 
             When designing I use my creativity and attention to detail to implement my ideas into code. 
             I aspire to go into to career in front-end website development and eventually UI/UX design as my pursuit for knowledge continues.
-            {/* Here's a link to my resume <Link src= {Resume}>Resume</Link> */}
          </p>
+            {/* Here's a link to my resume <Link src= {Resume}>Resume</Link> */}
          
          <p className='para'> <h2>Personal Interests</h2>Here are a few things are enjoy doing in my free time. I really enjoy cooking, my favorite dish to cook is 
             Chicken Parmagina. My favorite sport is basketball, I have played it for most of my life and still 
