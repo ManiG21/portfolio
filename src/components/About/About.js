@@ -15,7 +15,6 @@ function About() {
             I aspire to go into to career in front-end website development and eventually UI/UX design as my pursuit for knowledge continues.
          </p>
             {/* Here's a link to my resume <Link src= {Resume}>Resume</Link> */}
-         
          <p className='para'> <h2>Personal Interests</h2>Here are a few things are enjoy doing in my free time. I really enjoy cooking, my favorite dish to cook is 
             Chicken Parmagina. My favorite sport is basketball, I have played it for most of my life and still 
             occasionally to this day. I workout regularly 
