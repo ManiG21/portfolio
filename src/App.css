@@ -19,7 +19,6 @@ header {
 
   position: relative; 
   animation: 3s slideout;
-/*   background: blue;/ */
 }
 
 @keyframes slideout {
