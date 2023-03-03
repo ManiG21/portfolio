@@ -46,7 +46,6 @@ animation-iteration-count: 1;
 } */
   }
   #Calc:hover  {
-/* background-image: url(./Calc-ss.png); */
 background-image: url(./Calc.png);
 -webkit-box-shadow: 2px -2px 5px 28px rgba(253, 250, 250, 0.75);
 -moz-box-shadow: 2px -2px 5px 28px rgba(246, 237, 237, 0.75);
