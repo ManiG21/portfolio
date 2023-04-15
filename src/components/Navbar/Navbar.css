@@ -76,7 +76,8 @@ button.buttonNav {
   transition: 0.7s;
   box-shadow: 0px 5px 5px 5px rgba(248, 245, 245, 0.75);
   /* color: white; */
-  color: rgb(250, 8, 8);
+  /* color: rgb(250, 8, 8); */
+  color: rgb(12, 12, 12);
 
 
 }
