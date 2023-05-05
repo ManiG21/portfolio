@@ -21,7 +21,7 @@ function About() {
          <p className='para'> <h2 id='ab'>Personal Interests/Hobbies</h2>Here are a few things are enjoy doing in my free time. I really enjoy cooking, my favorite dish to cook is 
             Chicken Parmagina. My favorite sport is basketball, I have played it for most of my life and still 
             occasionally to this day. I workout regularly whether it's lifting weights, calistentics or just simply
-            going for a walk(at least once a day). 
+            going for a walk in the park (at least once a day). 
          </p>
     </div>
    ) 
