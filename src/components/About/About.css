@@ -37,7 +37,6 @@ box-shadow: 0px 10px 10px 10px rgba(233, 231, 231, 0.75);
 }
 
 
-
 .about.container{
   display: flex;
   flex-direction: column;
@@ -90,9 +89,7 @@ box-shadow: 0px 10px 10px 10px rgba(233, 231, 231, 0.75);
     100% {
       left: 0;
     }
-
-    
-
+   
 }
 
 @media all and (max-width: 1300px) {

@@ -6,7 +6,7 @@ function Home() {
    return (
     <div className='home container'>  
       <header>Welcome to my Portfolio</header>
-    <img className='logo' id='Me' alt='Me' src={logo}></img>
+      <img className='logo' id='Me' alt='Me' src={logo}></img>
     </div>
    ) 
     
