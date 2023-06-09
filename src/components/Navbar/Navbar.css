@@ -86,6 +86,6 @@ button.buttonNav {
   color: rgb(12, 12, 12);
   /* text-shadow: 0 1px rgb(250, 8, 8), -1px 0 rgb(250, 8, 8), -1px 2px rgb(250, 8, 8),
     -2px 1px rgb(250, 8, 8), -2px 3px rgb(250, 8, 8), -3px 2px rgb(250, 8, 8); */
-text-shadow: none;
+  text-shadow: none;
 /* border: black 3px  ; */
 }

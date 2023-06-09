@@ -3,14 +3,12 @@ p {
     text-align: center;
    
         /* Ask Abe about animating up */
-
 }
 
 .para {
   animation: 3s slideup ease;
   position: relative;
-/* background-color: red; */
-  background-color:#7d807e;
+  background-color: #b70606;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin-left: 200px;
   margin-right: 200px;
@@ -18,7 +16,6 @@ p {
   padding: 30px;
 /* box-shadow: 0px 10px 10px 10px rgba(7, 7, 7, 0.75); */
   box-shadow: 0px 10px 10px 10px rgba(233, 231, 231, 0.75);
-
 }
     @keyframes slideup {
         0% {
