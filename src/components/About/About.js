@@ -3,7 +3,6 @@ import Me from './Me2.jpeg';
 import Chicken from './Chicken.JPG';
 // import Resume from './Armani_Grant_Resume.docx'
 
-
 function About() {
    return (
     <div className="about container">
