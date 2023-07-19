@@ -25,7 +25,8 @@ function About() {
             in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite 
             sport is basketball, I have played it for most of my life and still occasionally to this day. 
             I workout regularly whether it's lifting weights, calistentics or just simply going for a walk in 
-            the park (at least once a day). 
+            the park (at least once a day). Music is a constant, it's something I listen to everyday and all different
+            types depending the feel of the day.
          </p>
     </div>
    ) 
