@@ -16,7 +16,6 @@ function About() {
             attention to detail to implement my ideas into code. I aspire to go into to career in front-end 
             website development and eventually UI/UX design as my pursuit for knowledge continues.
            {/*Here's a link to my resume:  <Link src= {Resume}>Resume</Link> */}
-           {/*Here's a link to my resume:  <Link src= {Resume}>Resume</Link> */}
          </p>
 
          <img className='logo'id='Chick' src={Chicken} alt='Me'></img>
