@@ -5,26 +5,7 @@ p {
         /* Ask Abe about animating up */
 }
 
-.para {
-  animation: 3s slideup ease;
-  position: relative;
-  background-color: #b70606;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 100px;
-  padding: 30px;
 
-  border: 10px solid black;
-}
-    @keyframes slideup {
-        0% {
-          bottom:-200px;
-        }
-        100% {
-          bottom: 0;
-        }
-}
 
 #ab {
   text-decoration-line: underline ;
@@ -57,6 +38,27 @@ p {
     100% {
       left: 0;
     }
+}
+
+.para {
+  animation: 3s slideup ease;
+  position: relative;
+  background-color: #b70606;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+  padding: 30px;
+
+  border: 10px solid black;
+}
+    @keyframes slideup {
+        0% {
+          bottom:-200px;
+        }
+        100% {
+          bottom: 0;
+        }
 }
 
 #Chick {
