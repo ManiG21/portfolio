@@ -53,6 +53,9 @@ box-shadow: 2px -2px 5px 28px rgba(244, 238, 238, 0.75);
 background-position: center;
 background-size: cover;
 color: transparent;
+transition: all .40s ease;
+transform: translateY(-50px);
+
   }
 
   #Pro:hover  {
