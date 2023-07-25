@@ -14,7 +14,7 @@
   box-shadow: 0px 7px 10px 1px rgba(0, 0, 0, 0.75);
   font-family: fantasy;
   text-shadow: 0 1px #808d93, -1px 0 #7f8081, -1px 2px #3e3f3f, -2px 1px #3e3f3f, -2px 3px #3e3f3f,
-    -3px 2px #3e3f3f;
+  -3px 2px #3e3f3f;
 }
 
 .navLinkContainer {
@@ -32,7 +32,6 @@
   justify-content: center;
   margin: 0 auto;
   padding-right: 50px;
-  /* width: 900px; */
 }
 
 .hamburger-menu {
@@ -80,7 +79,5 @@ button.buttonNav {
   box-shadow: 0px 3px 3px 3px rgba(248, 245, 245, 0.75);
   /* color: white; */
   color: rgb(12, 12, 12);
-  /* text-shadow: 0 1px rgb(250, 8, 8), -1px 0 rgb(250, 8, 8), -1px 2px rgb(250, 8, 8),
-    -2px 1px rgb(250, 8, 8), -2px 3px rgb(250, 8, 8), -3px 2px rgb(250, 8, 8); */
   text-shadow: none;
 }
