@@ -10,7 +10,8 @@ p {
 
 #ab {
   text-decoration-line: underline ;
-
+  font-size: 50px;
+  color: white;
 }
 
 .about.container{
@@ -64,6 +65,21 @@ p {
         100% {
           bottom: 0;
         }
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.intro {
+  flex: 1;
+  /* width: 100%; */
+  margin-left: 10px;
+}
+
+.wrap {
+  flex-wrap: wrap;
 }
 
 #Chick {

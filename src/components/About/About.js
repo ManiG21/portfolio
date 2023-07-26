@@ -9,16 +9,16 @@ function About() {
        
         <header>About Me</header>  
 
-         <p className='para'> <h2 id='ab'>Introduction </h2>
-         <div className='row'> 
-         <img className='logo'id='Me' src={Me} alt='Me'></img>
-            Hello my name is Armani Grant. I am a avid 
+         <div className='para'> <h2 id='ab'>Introduction </h2>
+         <div className='row wrap'> 
+         <img className='logo'id='Me' src={Me} alt='Me'></img> 
+           <p className='intro'> Hello my name is Armani Grant. I am a avid 
             learner that is always looking for ways to improve to become the best I can be at my craft. 
             I have a passion for front-end website development. When designing I use my creativity and 
             attention to detail to implement my ideas into code. I aspire to go into to career in front-end 
-            website development and eventually UI/UX design as my pursuit for knowledge continues.
+            website development and eventually UI/UX design as my pursuit for knowledge continues. </p>
            {/*Here's a link to my resume:  <Link src= {Resume}>Resume</Link> */} </div>
-         </p>
+         </div>
 
          <img className='logo'id='Chick' src={Chicken} alt='Me'></img>
 
