@@ -10,7 +10,9 @@ function About() {
    // Create a way to automatically increment the carousel number 
       // When are our Carousel is out of images reset to the first one
       // Need animations for images going out and in
+
    // useState()
+   
    return (
       <div className="about container">
 
