@@ -29,7 +29,6 @@ function About() {
                {/*Here's a link to my resume:  <Link src= {Resume}>Resume</Link> */} </div>
          </div>
 
-
          <div className='para'> 
             <h2 id='ab'>Personal Interests/Hobbies</h2>
             <div className='row wrap'>   
