@@ -42,7 +42,8 @@ function About() {
                   I workout regularly whether it's lifting weights, calistentics or just simply going for a walk in
                   the park (at least once a day). Music is a constant in my life, it's something I listen to everyday and all different
                   types depending the feel of the day. Some of my favorite artists are Michael Jackson, Ne-Yo, Alicia Keys
-                  and Linkin Park.</p> 
+                  and Linkin Park.
+               </p> 
             </div>
          </div>
       </div>
