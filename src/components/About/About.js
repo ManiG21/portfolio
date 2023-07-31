@@ -37,7 +37,7 @@ function About() {
                   <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
                   <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img>
               </div>
-               <p>Here are a few things are enjoy doing  in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite
+               <p> Here are a few things are enjoy doing  in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite
                   sport is basketball, I have played it for most of my life and still occasionally to this day.
                   I workout regularly whether it's lifting weights, calistentics or just simply going for a walk in
                   the park (at least once a day). Music is a constant in my life, it's something I listen to everyday and all different
