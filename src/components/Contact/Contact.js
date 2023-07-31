@@ -7,7 +7,6 @@ import { AiFillLinkedin } from "react-icons/ai";
 
 function Contact() {
    return (
-
       <div className="contact container">
          <header> Contact Me </header>
          <a href='https://github.com/ManiG21'> <GoMarkGithub className='logos logo' /></a>
