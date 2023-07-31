@@ -12,7 +12,6 @@ export default function Navbar() {
             <Link to="/about"> <button className="buttonNav">About</button></Link>
             <Link to="/projects"> <button className="buttonNav">Projects</button></Link>
             <Link to="/contact"> <button className="buttonNav">Contact Me</button></Link>
-            {/* <a href="/Armani_Grant_Resume.docx"> My Resume</a> */}
         </div>
     </div>
 }
