@@ -10,7 +10,7 @@ function Contact() {
 
       <div className="contact container">
 
-         <header> My Contacts</header>
+         <header> Contact Me</header>
          <a href='https://github.com/ManiG21'> <GoMarkGithub className='logos logo' /></a>
          <a href='https://www.linkedin.com/in/armani-grant-1a7b75227/'><AiFillLinkedin id='w' className='logos logo' /></a>
       {/*<a href='https://www.linkedin.com/in/armani-grant-1a7b75227/'><AiFillLinkedin className='logos logo' /></a> */}  
