@@ -2,6 +2,8 @@ import './About.css';
 import Me from './Me2.jpeg';
 import Chicken from './Chicken.JPG';
 import Gohan from './Gohan-ssj2.gif'
+import 'react-slideshow-image/dist/styles.css'
+import { Fade, Zoom } from 'react-slideshow-image';
 // import { useState } from 'react';
 // import Resume from './Armani_Grant_Resume.docx'
 
