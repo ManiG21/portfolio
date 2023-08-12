@@ -2,6 +2,7 @@ import './About.css';
 import Me from './Me2.jpeg';
 import Chicken from './Chicken.JPG';
 import Gohan from './Gohan-ssj2.gif'
+import Linkin from './Linkin.jpg'
 import 'react-slideshow-image/dist/styles.css'
 import { Fade, Zoom, Slide } from 'react-slideshow-image';
 // import { useState } from 'react';
