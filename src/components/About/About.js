@@ -9,7 +9,10 @@ import { Fade, Zoom, Slide } from 'react-slideshow-image';
 
 const hobbyImages = [
    {
-      
+      img: {Chicken}
+   },
+   {
+      img: {Gohan}
    }
 ]
 
