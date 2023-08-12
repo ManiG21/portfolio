@@ -99,6 +99,7 @@ p {
   height: auto;
   max-width: 600px;
   max-height: 500px;
+  /* object-fit: contain; */
   display: block;
   margin-top: 20px;
   border: 10px solid black;
