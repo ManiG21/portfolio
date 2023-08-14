@@ -16,7 +16,7 @@ const hobbyImages = [
       img: <img src= {Gohan} ></img> 
    },
    {
-      img: <img></img>
+      img: <img src= {Linkin} ></img>
    }
 ]
 
