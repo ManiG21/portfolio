@@ -8,6 +8,7 @@ import 'react-slideshow-image/dist/styles.css'
 import { Fade, Zoom, Slide } from 'react-slideshow-image';
 // import { useState } from 'react';
 // import Resume from './Armani_Grant_Resume.docx'
+// import Resume from './Armani_Grant_Resume.docx'
 
 const hobbyImages = [
    {
@@ -19,6 +20,9 @@ const hobbyImages = [
    {
       img: <img src= {Linkin} ></img>
    },
+   {
+      img: <img src= {Dunk} ></img>
+   }
 ]
 
 function About() {
