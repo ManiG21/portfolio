@@ -3,6 +3,7 @@ import Me from './Me2.jpeg';
 import Chicken from './Chicken.JPG';
 import Gohan from './Gohan-ssj2.gif'
 import Linkin from './Linkin.jpg'
+import Dunk from './In-game-dunk.gif'
 import 'react-slideshow-image/dist/styles.css'
 import { Fade, Zoom, Slide } from 'react-slideshow-image';
 // import { useState } from 'react';
