@@ -18,7 +18,7 @@ const hobbyImages = [
    },
    {
       img: <img src= {Linkin} ></img>
-   }
+   },
 ]
 
 function About() {
