@@ -15,6 +15,9 @@ const hobbyImages = [
    {
       img: <img src= {Gohan} ></img> 
    },
+   {
+      img:
+   }
 ]
 
 function About() {
