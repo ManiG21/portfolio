@@ -14,7 +14,6 @@ function Project() {
             <a className='project-button'id='Movies-More' href='https://imaginative-unicorn-f88fec.netlify.app/' target='_blank' rel='noreferrer' >Movies & More</a>
             <a className='project-button' id='Pro' href='https://main.d3156uqzn4jd72.amplifyapp.com/ ' target='_blank' rel='noreferrer' >Me Myself & I</a>
                  {/* <FontAwesomeIcon className='Emojis Excited' icon={faFaceSmileBeam} />
-                <FontAwesomeIcon className='Emojis Sad' icon={faAngleDoubleLeft} /> */}
             
          </div>
       </div>
