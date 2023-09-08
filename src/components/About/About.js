@@ -12,7 +12,7 @@ import { useState } from 'react';
 
 const hobbyImages = [
    {
-      img: <img src= {Chicken}> </img> 
+      img: <img src= {Chicken}></img> 
    },
    {
       img: <img src= {Gohan} ></img> 
