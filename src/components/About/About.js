@@ -31,7 +31,7 @@ function About() {
    // Need animations for images going out and in
    
    const [slideNum, setSlideNum] = useState(0)
-   // setInterval(() => setSlideNum((slideNum + 1)),10000)
+   setInterval(() => setSlideNum((slideNum + 1)),10000)
    
    return (
       <div className="about container">
