@@ -30,7 +30,7 @@ function About() {
    // When are our Carousel is out of images reset to the first one
    // Need animations for images going out and in
    
-   const [slideNum, setSlideNum] = useState(1)
+   const [slideNum, setSlideNum] = useState(0)
    setInterval(() => setSlideNum((slideNum + 1)),10000)
    
    return (
@@ -53,9 +53,10 @@ function About() {
             <h2 id='ab'>Personal Interests/Hobbies</h2>
             <div className='row wrap'>   
                <div>
-                  <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
-                  <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img>
+                  {/* <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
+                  <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img> */}
                   {/* {hobbyImages[slideNum].img} */}
+                  {hobbyImages[1].img}
               </div>
 
                <p> Here are a few things are enjoy doing  in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite
