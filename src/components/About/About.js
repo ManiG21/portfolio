@@ -56,7 +56,7 @@ function About() {
                   {/* <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
                   <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img> */}
                   {/* {hobbyImages[slideNum].img} */}
-                  {hobbyImages[1].img}
+                  {hobbyImages[2].img}
               </div>
 
                <p> Here are a few things are enjoy doing  in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite

@@ -90,6 +90,7 @@ p {
 #Chick {
   display: flex;
   justify-content: center;
+  justify-self: center;
   width: 80%;
   height: auto;
   max-width: 600px;
@@ -97,6 +98,7 @@ p {
   /* object-fit: contain; */
   display: block;
   margin-top: 20px;
+  margin-left: 450px;
   /* border: 10px solid black; */
   animation: 3s slidein ease;
 }
