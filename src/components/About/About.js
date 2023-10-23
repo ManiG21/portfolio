@@ -52,7 +52,7 @@ function About() {
          <div className='para'> 
             <h2 id='ab'>Personal Interests/Hobbies</h2>
             <div className='row wrap'>   
-               <div className='logo' id='Chick'>
+               <div id='Chick'>
                   {/* <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
                   <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img> */}
                   {/* {hobbyImages[slideNum].img} */}

@@ -97,7 +97,7 @@ p {
   /* object-fit: contain; */
   display: block;
   margin-top: 20px;
-  border: 10px solid black;
+  /* border: 10px solid black; */
   animation: 3s slidein ease;
 }
 
