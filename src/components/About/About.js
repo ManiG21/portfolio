@@ -46,7 +46,7 @@ function About() {
                   I have a passion for front-end website development. When designing I use my creativity and
                   attention to detail to implement my ideas into code. I aspire to go into to career in front-end
                   website development and eventually UI/UX design as my pursuit for knowledge continues. </p>
-               {/*Here's a link to my resume:  <Link src= {Resume}>Resume</Link> */} </div>
+               </div>
          </div>
 
          <div className='para'> 
