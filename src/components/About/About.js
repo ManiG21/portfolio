@@ -26,11 +26,11 @@ const hobbyImages = [
 
 function About() {
    // Create a variable to store where we are in the carousel
-   // Create a way to automatically increment the carousel number 
    // When are our Carousel is out of images reset to the first one
    // Need animations for images going out and in
    
    const [slideNum, setSlideNum] = useState(0)
+   // Create a way to automatically increment the carousel number 
    setInterval(() => setSlideNum((slideNum + 1)),10000)
    
    return (
