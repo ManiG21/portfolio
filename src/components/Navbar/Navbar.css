@@ -12,8 +12,8 @@
   border-radius: 20px;
   cursor: pointer;
   box-shadow: 0px 7px 10px 1px rgba(0, 0, 0, 0.75);
-  font-family: fantasy;
-  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  /* font-family: fantasy; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-shadow: 0 1px #808d93, -1px 0 #7f8081, -1px 2px #3e3f3f, -2px 1px #3e3f3f, -2px 3px #3e3f3f,
   -3px 2px #3e3f3f;
 }
