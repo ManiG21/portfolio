@@ -99,7 +99,6 @@ p {
   display: block;
   margin-top: 20px;
   margin-left: 450px;
-  /* border: 10px solid black; */
   animation: 3s slidein ease;
 }
 
