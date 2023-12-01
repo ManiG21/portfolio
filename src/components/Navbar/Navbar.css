@@ -80,3 +80,19 @@ button.buttonNav {
   text-shadow: none;
   transform: translateY(-7px) scale(0.95);
 }
+
+
+/* .navbar {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  right: -100%;
+  width: 270px;
+  height: 100vh;
+  background: #002765;
+  padding: 20px 15px;
+  gap: 0.5rem;
+  text-align: left;
+  transition: all .50s ease;
+} */
