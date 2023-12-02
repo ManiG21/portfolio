@@ -82,7 +82,7 @@ button.buttonNav {
 }
 
 @media (max-width: 570px) {
-  /* .navbar {
+  .navbar {
     display: flex;
     flex-direction: column;
     position: absolute;
@@ -95,5 +95,5 @@ button.buttonNav {
     gap: 0.5rem;
     text-align: left;
     transition: all .50s ease;
-  } */
+  }
 }
