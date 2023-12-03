@@ -88,8 +88,6 @@ button.buttonNav {
     position: absolute;
     top: 100%;
     right: -100%;
-    width: 270px;
-    height: 100vh;
-    background: #002765;
+
   }
 }
