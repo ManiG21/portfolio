@@ -81,7 +81,7 @@ button.buttonNav {
   transform: translateY(-7px) scale(0.95);
 }
 
-/* @media (max-width: 570px) {
+@media (max-width: 570px) {
   .navbar {
     display: flex;
     flex-direction: column;
@@ -91,9 +91,5 @@ button.buttonNav {
     width: 270px;
     height: 100vh;
     background: #002765;
-    padding: 20px 15px;
-    gap: 0.5rem;
-    text-align: left;
-    transition: all .50s ease;
   }
-} */
+}
