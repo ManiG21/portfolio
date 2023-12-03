@@ -108,7 +108,6 @@
   
   #Pro {
     color: black;
-    color: black;
     position: relative; 
     animation: 3s slidein;
   }
@@ -146,4 +145,13 @@
       }
   
     }
+
+    @media (max-width: 570px) {
+      .project-button {
+        font-size: 30px;
+        height: 100px;
+        width: 100px;
+        /* border-radius: 50%; */
+      }
+}
   
