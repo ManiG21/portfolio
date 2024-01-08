@@ -15,6 +15,5 @@ function Project() {
          </div>
       </div>
    )
-
 }
 export default Project;
