@@ -21,16 +21,20 @@ header {
     -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93,
     -8px 7px #cdd2d5;
   position: relative;
-  animation: 3s slideout;
+  transition: 2s;
+  animation: 3s visual;
 }
 
-@keyframes slideout {
+@keyframes visual {
   0% {
-    left: -2000px;
+    /* left: -2000px; */
+    opacity: 0;
   }
 
   100% {
-    left: 0;
+    /* left: 0; */
+    opacity: 1;
+
   }
 
 }

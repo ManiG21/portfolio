@@ -56,10 +56,24 @@
 
 button.buttonNav {
   position: relative;
-  animation: 3s slidedown ease;
+  transition: 1s;
+  animation: 3s visual ease;
 }
 
-@keyframes slidedown {
+@keyframes visual {
+  0% {
+    /* left: -2000px; */
+    opacity: 0;
+  }
+
+  100% {
+    /* left: 0; */
+    opacity: 1;
+
+  }
+}
+
+/* @keyframes slidedown {
   0% {
     top: -2000px;
     right: -2000px;
@@ -70,7 +84,7 @@ button.buttonNav {
     right: 0px;
 
   }
-}
+} */
 
 .buttonNav:hover {
   background-color: #f2f4f3;
