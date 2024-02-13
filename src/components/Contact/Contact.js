@@ -3,7 +3,6 @@ import { GoMarkGithub } from "react-icons/go";
 import { AiFillLinkedin } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 
-
 function Contact() {
    return (
       <div className="contact container">
