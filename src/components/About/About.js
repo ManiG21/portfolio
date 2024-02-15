@@ -1,26 +1,22 @@
 import './About.css';
 import Me from './Me2.jpeg';
-import Chicken from './Chicken.jpg'
 import Gohan from './Gohan-ssj2.gif'
 import Linkin from './Linkin.jpg'
 import Dunk from './In-game-dunk.gif'
 import 'react-slideshow-image/dist/styles.css'
-import { Fade, Zoom, Slide } from 'react-slideshow-image';
+// import { Fade, Zoom, Slide } from 'react-slideshow-image';
 import { useState } from 'react';
 // import Resume from './Armani_Grant_Resume.docx'
 
 const hobbyImages = [
    {
-      img: <img src= {Chicken}></img> 
+      img: <img src= {Gohan} alt='dbz'></img> 
    },
    {
-      img: <img src= {Gohan} ></img> 
+      img: <img src= {Linkin} alt='link'></img>
    },
    {
-      img: <img src= {Linkin} ></img>
-   },
-   {
-      img: <img src= {Dunk} ></img>
+      img: <img src= {Dunk} alt='dunk'></img>
    }
 ]
 
@@ -56,7 +52,7 @@ function About() {
                   {/* <img className='logo' id='Chick' src={Chicken} alt='Chicken'></img>
                   <img className='logo' id='ssj' src={Gohan} alt='Gohan'></img> */}
                   {/* {hobbyImages[slideNum].img} */}
-                  {hobbyImages[2].img}
+                  {hobbyImages[1].img}
               </div>
 
                <p> Here are a few things are enjoy doing  in my free time. I really enjoy cooking, my favorite dish to cook is Chicken Parmagina. My favorite
